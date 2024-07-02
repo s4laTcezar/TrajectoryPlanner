@@ -41,7 +41,7 @@ public class Main {
                 break;
             }
             case 2:{
-                Stvorec();
+                Square();
                 PlotTrajectories();
                 break;
             }
@@ -102,7 +102,7 @@ public class Main {
         yLeft.clear();
     }
 
-    public static void Stvorec(){
+    public static void Square(){
 
         ClearLists();
         
