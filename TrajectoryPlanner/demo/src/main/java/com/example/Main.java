@@ -32,6 +32,7 @@ public class Main {
 
         Scanner enter = new Scanner(System.in);
 
+        System.out.print("Your choice is ");
         int k = enter.nextInt();
 
         switch(k){
