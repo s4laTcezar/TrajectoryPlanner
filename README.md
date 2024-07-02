@@ -13,3 +13,5 @@ The center of gravity is marked in black.
 How the program works:
 If you select 1, the trajectory is drawn based on the velocity and time vectors already predetermined.
 If you select 2/3, the velocity and time vectors are generated from the preset values, and then the trajectory is drawn based on these vectors.
+
+There is a .jar file that you can launch using this command in Command Prompt: java -jar TrajectoryPlanner-1.jar
